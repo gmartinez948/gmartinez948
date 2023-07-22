@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 </div>
 
 ##Hi, I'm Guillermo Martinez!
-<div id="badges"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/guillermo-948-martinez/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
